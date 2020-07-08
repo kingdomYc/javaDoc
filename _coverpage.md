@@ -3,6 +3,6 @@
 </p>
 <h1 align="center">docsify-blog</h1>
 
-[GitHub](https://github.com/Snailclimb/docsify-demo)
+[GitHub](https://github.com/kingdomYc/javaDoc)
 [开始阅读](#我的博客)
 
